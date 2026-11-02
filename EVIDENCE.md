@@ -25,7 +25,7 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 
 | Token | Figma value | `tokens.css` value | Agree? |
 |---|---|---|---|
-|  |  |  |  |
+| --color-text-primary | #231F1C | --neutral-900 | Yes |
 
 ---
 
