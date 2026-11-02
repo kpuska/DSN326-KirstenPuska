@@ -13,9 +13,9 @@
 | --type-mono-size | 14px | 14px | Yes |
 | --space-inset-lg | 24px | 24 px| Yes |
 | --radius-full | 9999px | 9999px | Yes |
-| --target-comfortable | 44px | 48px | No, trusting css value due to matching rail.md |
+| --target-min env-high-glare | 56px | 56px | Yes |
 
-## Three Axes
+## Density and Environment
 ### Density:
 
 | Axis | type/body | space/inset/md |
@@ -24,6 +24,13 @@
 | Compact | 14px | 12px |
 | Service | 24px | 24px |
 
+### Environment:
+
+| Axis | Standard target/min | High-Glare target/min|
+|---|---|---|
+| Comfortable | 44px | 56px |
+| Compact | 44px | 56px |
+| Service | 44px | 56px |
 
 
 ---
