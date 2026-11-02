@@ -50,7 +50,7 @@ The card component has different variants but it packages together related sets 
 
 States Handled: default, hover, focus, active, disabled, loading (skeleton)
 
-States Not Handled: error, 
+States Not Handled: error
 
 Rail Tokens: 
 - Color: --text-primary, --text-secondary, --text-tertiary, --surface-raised, --border-strong, --text-link, --interactive-subtle, --surface-subtle, 
@@ -58,6 +58,21 @@ Rail Tokens:
 - Spacing: --space-inset-sm, --space-inset-md, --space-inline-md, --space-gap-sm, 
 - Radius/Target: --radius-md, --radius-sm
 
+ #### Input:
+ The input component allows users to enter text into the field. 
+ #### Variants
+ - Single-line input with label and helper text: a single line text entry box with text to give direction.
+ - Multi-line (text area) with character count: Ability to enter multiple lines of text and see how many characters are present in the box.
+
+States: Default, hover, focused, filled, error, success, disabled
+
+States Not Handled: Loading
+
+Rail Tokens:
+- Color:
+- Typography:
+- Spacing:
+- Radius/Target: 
 
 ---
 
