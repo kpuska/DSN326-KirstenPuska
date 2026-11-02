@@ -69,10 +69,10 @@ States: Default, hover, focused, filled, error, success, disabled
 States Not Handled: Loading
 
 Rail Tokens:
-- Color:
-- Typography:
-- Spacing:
-- Radius/Target: 
+- Color: --surface-raised, --text-primary, --text-tertiary, --border-focus, --border-strong, --text-disabled, --surface-subtle, --border-subtle, --text-disabled, --border-error, --feedback-success, --text-error, --text-success
+- Typography: --type-label-size, --type-label-line, --type-label-weight, --type-body-size, --type-body-line, --type-body-weight, --type-caption-size, --type-caption-line, 
+- Spacing: --space-stack-sm, --space-inset-sm, --space-inset-md, 
+- Radius/Target: --radius-sm, 
 
 ---
 
