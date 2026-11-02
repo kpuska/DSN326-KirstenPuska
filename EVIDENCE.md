@@ -74,6 +74,13 @@ Rail Tokens:
 - Spacing: --space-stack-sm, --space-inset-sm, --space-inset-md, 
 - Radius/Target: --radius-sm, 
 
+### 5-Task Script
+1. You are eating at your favorite lunch spot and you want your go-to meal. Find your past order.
+2. Using your order history, load your meal into your cart.
+3. You decide you don't want the same side as the last time, but want to keep everything else the same. Modify this in your order.
+4. When you go to your cart, you see the store is out of the drink you want. Correct this error.
+5. Review everything looks good to go to checkout. 
+
 ---
 
 ## Sessions
