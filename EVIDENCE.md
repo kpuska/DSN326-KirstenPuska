@@ -34,6 +34,7 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 | --type-mono-size | 14px | 14px | Yes |
 | --space-inset-lg | 24px | 24 px| Yes |
 | --radius-full | 9999px | 9999px | Yes |
+| --target-comfortable | 44px | 48px | No, trusting css value due to matching rail.md |
 
 
 
