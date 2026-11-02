@@ -28,6 +28,8 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 | --color-text-primary | #231F1C | --neutral-900 | Yes |
 | --type-display-size | 32 | 32px | Yes |
 | --space-inset-sm | 8 | 8px | Yes |
+| --radius-sm | 6 | 6px | Yes |
+
 
 ---
 
