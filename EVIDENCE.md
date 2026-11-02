@@ -1,6 +1,9 @@
 # Evidence
 
-## Week 1: Rail parity check
+## Backlog: HEARD 211 - Reordering takes as long as ordering from scratch
+
+## Week 1: 
+### Rail parity check
 
 | Token | Figma value | `tokens.css` value | Agree? |
 |---|---|---|---|
@@ -15,8 +18,8 @@
 | --radius-full | 9999px | 9999px | Yes |
 | --target-min env-high-glare | 56px | 56px | Yes |
 
-## Density and Environment
-### Density:
+### Density and Environment
+#### Density:
 
 | Axis | type/body | space/inset/md |
 |---|---|---|
@@ -24,7 +27,7 @@
 | Compact | 14px | 12px |
 | Service | 24px | 24px |
 
-### Environment:
+#### Environment:
 
 | Axis | Standard target/min | High-Glare target/min|
 |---|---|---|
@@ -32,8 +35,19 @@
 | Compact | 44px | 56px |
 | Service | 44px | 56px |
 
-### Why is service type so much larger than comfortable? Why doesn't target/min get smaller at compact?
-#### Service type is larger due to this being used in the fast-paced kitchen environment. Things need to be quick and easy to ready. Sometimes even from a distance. Target does not change with compact as the density changes the size of things on the screen, but it doesn't change the size of the fingers interacting.
+#### Why is service type so much larger than comfortable? Why doesn't target/min get smaller at compact?
+##### Service type is larger due to this being used in the fast-paced kitchen environment. Things need to be quick and easy to ready. Sometimes even from a distance. Target does not change with compact as the density changes the size of things on the screen, but it doesn't change the size of the fingers interacting.
+
+### Components
+#### Card: 
+The card component has different variants but it packages together related sets of information, photos, meta data or it completes an action. 
+#### Variants 
+- Basic: Holds a title and text.
+- Card with Top Image: Places an image above the text.
+- Card with Leading Image: Places an image leading or to the left of the text.
+- Card with Metadata: Contains metadata such as pricing or prep time. 
+- Card with Actions: Contains actions such as editing or removing an item.
+
 
 ---
 
