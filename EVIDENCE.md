@@ -1,26 +1,5 @@
 # Evidence
 
-*Raw findings. Not summaries.*
-
-Replace this placeholder in Week 1. Your token values from the parity check go in first.
-
-**The rule:** somebody else should be able to open this file and audit your conclusions without asking you a question.
-
-**What goes in:**
-
-- **Forum quotes** with their source URL and date. The actual quote, not your paraphrase.
-- **Per-participant session results.** One block per person: date, which round, how you ran it, task by task, what they did, what they said, where they stopped.
-- **Consent records.** For a live session, that you read the line. For an asynchronous one, their "yes" reply with the date.
-- **Coded themes**, with how many items fell into each.
-- **Token values** from the Week 1 parity check, both sides.
-- **Cancellations**, with the date you booked and the date they dropped.
-
-**What doesn't:** conclusions, arguments, anything you have already interpreted. Those go in [DECISIONS.md](DECISIONS.md) or your Studio submission.
-
-Keeping raw evidence separate from your reading of it is what lets you change your mind without losing the data.
-
----
-
 ## Week 1: Rail parity check
 
 | Token | Figma value | `tokens.css` value | Agree? |
@@ -36,7 +15,14 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 | --radius-full | 9999px | 9999px | Yes |
 | --target-comfortable | 44px | 48px | No, trusting css value due to matching rail.md |
 
+## Three Axes
+### Density:
 
+| Axis | type/body | space/inset/md |
+|---|---|---|
+| Comfortable | 16px | 16px |
+| Compact | 14px | 12px |
+| Service | 24px | 24px |
 
 
 
