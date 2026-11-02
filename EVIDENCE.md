@@ -32,6 +32,8 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 | --target-min | 44 | 44px | Yes |
 | --neutral-50 | #FAF9F7 | #FAF9F7 | Yes |
 | --type-mono-size | 14px | 14px | Yes |
+| --space-inset-lg | 24px | 24 px| Yes |
+
 
 
 
