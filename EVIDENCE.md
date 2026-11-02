@@ -32,6 +32,8 @@
 | Compact | 44px | 56px |
 | Service | 44px | 56px |
 
+### Why is service type so much larger than comfortable? Why doesn't target/min get smaller at compact?
+#### Service type is larger due to this being used in the fast-paced kitchen environment. Things need to be quick and easy to ready. Sometimes even from a distance. Target does not change with compact as the density changes the size of things on the screen, but it doesn't change the size of the fingers interacting.
 
 ---
 
