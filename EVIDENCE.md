@@ -132,3 +132,10 @@ Repeat guests who are reordering their same meal are met with a modified cart wi
 
 ### Success Measure:
 Users are no longer stuck checking their order to their past order to make sure everything was added, they would be immediately aware of unavailable items or price changes. This eliminates the user from having to cross-check their past order by going back and abandoning their cart due to time constraints. 
+
+## Pre-Registered Measures - 2026-11-09
+1: One measure: One measure that I chose is whether the participants noticed the out-of-stock item missing from their cart. 
+2: Current number: 1 of 2 participants noticed the out-of-stock Baja Tacos missing from their cart, and this was due to stumbling upon it when they went back to add another item. It was not a conscious choice. 
+3. Success and Failure Thresholds: Success would be measured by no participant having to leave the cart to know an item was not added due to being removed or out of stock. Failure would be determined if any participant missed the items being removed from the cart. 
+4. Confounds: The user in week 6 testing may notice the out-of-stock item immediately due to the earlier test and recognize this. The design in week 6 may also be too "easy" compared to a real environment with daily changes or stock updates. 
+5. Measure in production: An acknowledgment of out-of-stock/changed item alerts that is tracked would give data about how many users read or noticed the change. 
