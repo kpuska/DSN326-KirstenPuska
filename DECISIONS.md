@@ -49,7 +49,7 @@ A reorder is a simple click and should dump into the cart, whereas a smarter reo
 Partly; consistent orders for reorder are what a customer wants. If available, it should be as simple as dumping it into the cart. However, the reordering does stand to be “smarter” as to be able to see or adjust if pricing, items, or ingredients have changed or are out of stock since the last order. 
 ### Gap #3 – Unstated Constraint
 ##### The constraint: 
-The lack of user accounts and login requirements. We don’t ask for notification permission on someone’s first take-out order. \
-##### Where I found it: HEARD-219 regarding constraints of group orders. \
-##### Why the ticket doesn't mention it: Dev’s goal is to manage around all of the issues and maintain an accountless requirement. He wants the focus specifically on the order entry. \
+The lack of user accounts and login requirements. We don’t ask for notification permission on someone’s first take-out order. 
+##### Where I found it: HEARD-219 regarding constraints of group orders. 
+##### Why the ticket doesn't mention it: Dev’s goal is to manage around all of the issues and maintain an accountless requirement. He wants the focus specifically on the order entry. 
 ##### What it rules out: The ability to save an item as a favorite on the account or anything related to notifications of out-of-stock or changed items. 
