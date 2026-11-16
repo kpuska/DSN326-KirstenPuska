@@ -56,7 +56,7 @@ The lack of user accounts and login requirements. We don’t ask for notificatio
 
 ## Design Review 3: Tradeoff Analysis 11-13-2026
 
-| | Option #1: Alert Banner in Cart | Option #2: Pre-Card Alert Pop-Up | Option #3: In-Cart Alert and Blocked Checkout |
+| | Option #1: Alert Banner in Cart (Cheapest Option) | Option #2: Pre-Card Alert Pop-Up | Option #3: In-Cart Alert and Blocked Checkout |
 | :--- | :--- | :--- | :--- |
 | **What it is** | A top-of-cart alert advising in the cart that an item was removed from the reorder. The flow is still the same as it is presently. | A dialog box pop-up after clicking order again, that causes the user to acknowledge the unavailable item and choose a replacement from the menu themselves if they want before getting to the cart. | All items dumped in the cart as previously, but it separates the items that need reviewed or swapped before it allows you to checkout. |
 | **Costs the user** | Easy to overlook if in a rush. Visual clutter. | More clicks and friction. A slower process of checking out. | Requires resolution of the issue before going to checkout. Limited swap options based on similar results. |
