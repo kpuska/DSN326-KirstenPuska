@@ -72,7 +72,16 @@ The data does not answer if a rushing user would be able to successfully manage 
 #### What would have changed the decision:
 What would have changed my decision away from option 3 would have been if users testing the design ran into issues understanding what item they needed to review or clicked on the greyed out checkout option. This would have shown there wasn't clear direction. 
 #### What happens to the other two options?
-Option 1: Alert Banner in Cart. This option is deferred. The in cart alert pop could be folding into option 3 at a later date. This is the cheapest build as we have all of the component currently. /
+Option 1: Alert Banner in Cart. This option is deferred. The in cart alert pop could be folding into option 3 at a later date. This is the cheapest build as we have all of the component currently. \
 Option 2: Pre-Cart Alert. This option is deferred. Although the Order History is tied up this quarter, this may open up next quarter. 
 #### Heard setting the direction touches:
 This would affect any re-ordering settings. Restaurants could choose to have the blocked cart review toggled on or off. On the off state, this would act as it doesn't currently. 
+
+## Marisol's Memo Reply:
+Re: quick note before Friday
+Good morning, Marisol, 
+Quick clarifying question to start: When you say we cannot change the order history list this quarter, does this mean the order history list and any pre-cart banner interceptions tied to it are off the table? \
+If I don’t hear back by Thursday, I will assume the pre-cart intercepts are locked due to the order history list and work on building inside the cart itself. Sticking to the cart flow will still help users catch missing items before checking out, and if that is off track, we can easily pivot the changes to pre-cart alerts.  \
+I am counter-proposing option 3, the in-cart alert with blocked checkout. This defers options 1 and 2, which we can revisit later, especially if user testing shows the issue occurs before the cart. However, with this quarter’s constraints on editing the order history list, this plan keeps the ability for users to change out their items and continue to checkout. It uses components, such as cards we already have built, to keep down the cost. \
+The trade-off: Blocking checkout until an unavailable or unreviewed item is resolved would reduce incomplete orders. However, it comes at the cost of adding an extra step and risking drop-offs for users in a rush. \
+Reversibility: This could be completely reversed since the change doesn’t require any structural changes or altering the order history lists. Restaurants could even choose to toggle the checkout-blocking setting off if they choose. That matters because if reporting shows too much friction or points to a different spot in the flow, we can adjust or pull it back next quarter without the changes being locked in. 
