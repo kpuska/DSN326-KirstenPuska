@@ -75,4 +75,4 @@ What would have changed my decision away from option 3 would have been if users 
 Option 1: Alert Banner in Cart. This option is deferred. The in cart alert pop could be folding into option 3 at a later date. This is the cheapest build as we have all of the component currently. /
 Option 2: Pre-Cart Alert. This option is deferred. Although the Order History is tied up this quarter, this may open up next quarter. 
 #### Heard setting the direction touches:
-
+This would affect any re-ordering settings. Restaurants could choose to have the blocked cart review toggled on or off. On the off state, this would act as it doesn't currently. 
