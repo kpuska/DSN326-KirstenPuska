@@ -65,5 +65,5 @@ The lack of user accounts and login requirements. We don’t ask for notificatio
 | **What would kill it** | Testers ignoring the card and going through the cart as they did before, especially if they are rushed. | Users clicking out of the pop up without acknowledging what it was, just to get to the cart | Users abandoning their cart due to not being able to figure out how to advance to the checkout |
 
 ## Week 4 Direction 11-21-26
-### Choice: Option 3
-I chose to move forward with option 3 after reviewing Marisol's memo this week. Initially based on preference test, I was leaning towards options 2 as 2 of 3 users preferred it. My pivot to option 3 is based on the user test from week 2.
+#### Choice: Option 3
+I chose to move forward with option 3 after reviewing Marisol's memo this week. Marisol stated that this quarter we would be unable to make changes to the order history list due to being tied up with another project. Initially based on preference test, I was leaning towards options 2 as two of three users preferred it, one user preferred 3. My pivot to option 3 is based on the user test from week 2. P1 and P2 during the user test in week 2 expressed concerns with continuing through the cart without noticing the missing item, especially if rushing to get the order completed. Option 3 would keep these users in the cart and prevent them from continuing until completing the task.
