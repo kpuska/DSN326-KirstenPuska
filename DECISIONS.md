@@ -67,3 +67,12 @@ The lack of user accounts and login requirements. We don’t ask for notificatio
 ## Week 4 Direction 11-21-26
 #### Choice: Option 3
 I chose to move forward with option 3 after reviewing Marisol's memo this week. Marisol stated that this quarter we would be unable to make changes to the order history list due to being tied up with another project. Initially based on preference test, I was leaning towards options 2 as two of three users preferred it, one user preferred 3. My pivot to option 3 is based on the user test from week 2. P1 and P2 during the user test in week 2 expressed concerns with continuing through the cart without noticing the missing item, especially if rushing to get the order completed. Option 3 would keep these users in the cart and prevent them from continuing until completing the task.
+#### What the data doesn't tell me:
+The data does not answer if a rushing user would be able to successfully manage through the cart without abandoning their order. There is also no current data on why reorders are abandoned currently. 
+#### What would have changed the decision:
+What would have changed my decision away from option 3 would have been if users testing the design ran into issues understanding what item they needed to review or clicked on the greyed out checkout option. This would have shown there wasn't clear direction. 
+#### What happens to the other two options?
+Option 1: Alert Banner in Cart. This option is deferred. The in cart alert pop could be folding into option 3 at a later date. This is the cheapest build as we have all of the component currently. /
+Option 2: Pre-Cart Alert. This option is deferred. Although the Order History is tied up this quarter, this may open up next quarter. 
+#### Heard setting the direction touches:
+
